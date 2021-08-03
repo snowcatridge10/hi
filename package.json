@@ -2,6 +2,6 @@
   "name": "hi",
   "version": "1.0",
   "description": "hi",
-  "main": "index.js",
+  "start": "index.js",
   "license": "MIT"
 }
