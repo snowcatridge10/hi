@@ -1,0 +1,7 @@
+{
+  "name": "hi", // The name of your project
+  "version": "1.0", // The version of your project
+  "description": "hi", // The description of your project
+  "main": "index.js"
+  "license": "MIT" // The license of your project
+}
